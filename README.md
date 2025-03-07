@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&animation=fadeIn&width=100%)
 
 <!-- GitHub统计卡片 --> <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin: 2rem 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nullsir06&show_icons=true&theme=radical&hide_title=true" width="48%" style="height: 150px; object-fit: cover;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nullsir06&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%" style="height: 150px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nullsir06&show_icons=true&theme=radical&hide_title=true" style="height: 150px; object-fit: cover;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nullsir06&theme=radical&date_format=M%20j%5B%2C%20Y%5D" style="height: 150px; object-fit: cover;">
 </div>
 
 
