@@ -1,4 +1,4 @@
-## Hi there 👋 
+ 
 <div align="center" style="max-width: 1000px; margin: 0 auto;">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&animation=fadeIn&width=100%)
