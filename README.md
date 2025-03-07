@@ -11,8 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=nullsir06&show_icons=true&theme=radical&hide_title=true)
 ![](https://github-readme-streak-stats.herokuapp.com?user=nullsir06&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
-<!-- 技能雷达图 -->
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,py,rust,aws,docker,postgres,redis,graphql,linux)](https://skillicons.dev)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nullsir06)](https://git.io/streak-stats)
 
 <!-- 动态旋转图标 -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="transform: rotate(360deg); animation: rotation 8s infinite linear" />
