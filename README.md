@@ -22,7 +22,6 @@
 </div>
 
 
-<!-- 项目展示卡片 --> <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin: 2rem 0;"> <a href="https://github.com/nullsir06/blog_list"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nullsir06&repo=blog_list&theme=dark&show_owner=true" /> </a> <a href="https://github.com/nullsir06/unicafe"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nullsir06&repo=unicafe&theme=dark&show_owner=true" /> </a> </div>
 
 
 
